@@ -1,0 +1,30 @@
+<character_spec>
+  <identity>Quem é; nome, título, formação e papel que o agente/personagem incorpora.</identity>
+  <role>Função narrativa ou social: o que se espera que faça na história.</role>
+  <backstory>Eventos passados relevantes que explicam motivações e vieses.</backstory>
+  <theater>Cenário e contexto físico/social onde a ação ocorre; recursos e restrições.</theater>
+  <objective>Meta concreta e mensurável que o personagem busca alcançar.</objective>
+  <motivation>Razões internas que impulsionam suas ações e escolhas.</motivation>
+  <flaw>Limitação ou fraqueza que gera conflito e humanidade.</flaw>
+  <skills>Habilidades, conhecimentos e competências operacionais.</skills>
+  <appearance>Descrição física e vestuário que facilita visualização imediata.</appearance>
+  <mannerisms>Gestos, tiques e hábitos repetidos que marcam comportamento.</mannerisms>
+  <voice>Tom, ritmo e escolhas linguísticas ao falar ou narrar.</voice>
+  <beliefs>Conjunto de valores e convicções que orientam decisões morais.</beliefs>
+  <fears>Medos que condicionam riscos e reações sob pressão.</fears>
+  <secrets>Informação oculta que cria tensão e potencia desenvolvimentos.</secrets>
+  <relationships>Laços com outros personagens e sua dinâmica emocional.</relationships>
+  <internal_conflict>Dilemas íntimos que resistem a soluções fáceis.</internal_conflict>
+  <external_conflict>Forças externas (sociais, políticas, físicas) que o confrontam.</external_conflict>
+  <arc>Trajetória de mudança esperada do personagem ao longo da narrativa.</arc>
+  <triggers>Situações ou estímulos que disparam respostas emocionais fortes.</triggers>
+  <timeline>Eventos cronológicos chave que estruturam a história pessoal.</timeline>
+  <props>Objetos significativos que simbolizam ou ativam ações importantes.</props>
+  <limitations>Restrições críveis (recursos, leis, habilidades faltantes).</limitations>
+  <abilities>Capacidades extraordinárias ou específicas e suas regras de uso.</abilities>
+  <rules>Limites narrativos/éticas que o personagem deve respeitar.</rules>
+  <sensory_keys>Lista de sensações recorrentes a usar para tornar cenas vívidas.</sensory_keys>
+  <poV>Perspectiva narrativa preferida (1ª, 3ª limitada, objetiva, etc.).</poV>
+  <scene_sample>Exemplo curto que mostre o personagem em ação sem explicar poderes.</scene_sample>
+  <format_hint>Formato de saída desejado (ex.: "prosa 300-400 palavras", "ficha 80 palavras").</format_hint>
+</character_spec>
